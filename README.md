@@ -39,7 +39,7 @@ This RC Car project demonstrates the integration of SaraKIT with a Raspberry Pi 
 4. **Download the Control Script**: Clone this repository to your Raspberry Pi and navigate to the project directory.
 
 ```bash
-git clone https://github.com/SaraEye/SaraKIT-RCCar-Raspberry-Pi rccar
+git clone https://github.com/SaraEye/SaraKIT-RCCar-Python-Raspberry-Pi rccar
 cd rccar
 ```
 
