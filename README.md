@@ -26,6 +26,7 @@ This RC Car project demonstrates the integration of SaraKIT with a Raspberry Pi 
 - One or two compatible cameras (optional for FPV)
 - Xbox One controller with Bluetooth capability
 - Basic understanding of Python and Raspberry Pi environment
+- Two gimbal motors
 
 ### Installation
 
